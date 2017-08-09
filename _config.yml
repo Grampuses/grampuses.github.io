@@ -42,11 +42,12 @@ timezone:    Asia/Shanghai
 future:      false  # publish future dated posts --  true, false (default) 
 highlighter: rouge
 markdown:    kramdown
-gems:
+#gems:
+plugins:
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-gist
-  - jekyll-feed
+#  - jekyll-feed
 sass:
   sass_dir: _sass
   style: compressed
