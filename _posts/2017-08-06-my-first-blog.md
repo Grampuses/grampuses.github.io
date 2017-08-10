@@ -4,6 +4,9 @@ title: 第一篇：闲谈
 description: "This is my first page on the github."
 tags: [Ubuntu]
 image:
+  feature: abstract-0.jpg
+  credit: Good things are happening...
+  creditlink:
   background:
 ---
 
@@ -34,5 +37,3 @@ Jekyll（发音/'dʒiːk əl/，"杰克尔"）是一个静态站点生成器，�
 2. http://blog.csdn.net/yaohuan_tust/article/details/72803242
 3. http://pinyin.sogou.com/linux/
 ```
-
-
